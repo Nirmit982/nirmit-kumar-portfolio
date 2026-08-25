@@ -14,7 +14,7 @@ export function About() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, margin: "-80px" }}
             transition={{ duration: 0.4 }}
-            className="space-y-4 text-sm leading-relaxed text-ink-soft md:text-base"
+            className="space-y-4 text-sm leading-relaxed text-white md:text-base"
           >
             <p>
               ISoftware Developer with strong foundations in Data Structures and Algorithms and Full-Stack De-
