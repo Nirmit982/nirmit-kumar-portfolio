@@ -61,7 +61,9 @@ export function Navbar() {
             <Linkedin className="h-4 w-4" />
           </a>
           <a
-            href="#contact"
+            href="/resume2.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-1.5 rounded-lg border border-line bg-surface px-3 py-1.5 text-xs font-medium text-ink hover:border-accent-line hover:text-accent"
           >
             <FileText className="h-3.5 w-3.5" /> Resume

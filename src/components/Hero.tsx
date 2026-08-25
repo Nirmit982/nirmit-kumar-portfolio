@@ -37,12 +37,14 @@ export function Hero() {
             >
               Let's Connect
             </a>
-            <a
-              href="#contact"
-              className="inline-flex items-center gap-2 text-sm font-medium text-ink-soft hover:text-ink"
+            <button
+              type="button"
+              onClick={() => window.open("/resume2.pdf", "_blank")}
+              className="inline-flex items-center gap-2 text-sm font-medium text-ink-soft hover:text-ink cursor-pointer"
             >
-              <FileText className="h-4 w-4" /> View Resume
-            </a>
+              <FileText className="h-4 w-4" />
+              View Resume
+            </button>
           </div>
         </motion.div>
 
