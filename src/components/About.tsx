@@ -17,9 +17,11 @@ export function About() {
             className="space-y-4 text-sm leading-relaxed text-ink-soft md:text-base"
           >
             <p>
-              I'm a Computer Science and Engineering student with a strong foundation in full-stack
-              development and Data Structures and Algorithms. I enjoy breaking down real problems into
-              clear requirements and building software that actually solves them.
+              ISoftware Developer with strong foundations in Data Structures and Algorithms and Full-Stack De-
+              velopment, skilled in building responsive, scalable, and user-focused web applications. Proficient in
+              developing end-to-end solutions, designing RESTful APIs, working with databases, and writing clean,
+              efficient, and maintainable code. Strong problem-solving and analytical skills with a passion for learning
+              new technologies and building real-world software solutions.
             </p>
             <p>
               My work spans building complete web applications — frontend, backend, and database — as
